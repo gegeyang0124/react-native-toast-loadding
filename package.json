@@ -1,0 +1,32 @@
+{
+  "name": "react-native-toast-loadding",
+  "version": "1.0.0",
+  "description": "加载提示动画组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegeyang0124/react-native-toast-loadding.git"
+  },
+  "keywords": [
+    "react-native",
+    "loading",
+    "activityIndicator"
+  ],
+  "author": {
+    "name": "周阳",
+    "email": "584450903@qq.com",
+    "url": "https://github.com/gegeyang0124",
+    "blog":"http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gegeyang0124/react-native-toast-loadding/issues"
+  },
+  "homepage": "https://github.com/gegeyang0124/react-native-toast-loadding#readme",
+  "dependencies": {
+    "react-native-root-siblings":"^3.0.0"
+  }
+}
