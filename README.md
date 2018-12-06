@@ -4,6 +4,11 @@
 ### 安装
 npm i --save react-native-toast-loadding
 
+##### 展示
+<p align="center">
+    <img src ="https://thumbnail0.baidupcs.com/thumbnail/23ca77b90ef01abb372338124d5ab69e?fid=2334753321-250528-5087642707723&time=1544061600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2FLCvD2giMQnSPYE7QPeRUwQbyuk%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7872098722461242068&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video" />
+</p>
+
 ### 使用
 ```javascript
 import LoaddingIndicator from 'react-native-toast-loadding';
