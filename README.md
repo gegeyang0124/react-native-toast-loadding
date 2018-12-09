@@ -6,7 +6,7 @@ npm i --save react-native-toast-loadding
 
 ##### 展示
 <p>
-    <img src ="https://github.com/gegeyang0124/react-native-toast-loadding/blob/master/showImg/loadding.jpg" />
+    <img src ="./showImg/loadding.jpg" />
 </p>
 
 ### 使用
